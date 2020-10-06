@@ -1,0 +1,26 @@
+{
+  "name": "rpg-battle",
+  "version": "1.0.0",
+  "description": "Battle in OOP",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.5.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogers0404/brake-enemies.git"
+  },
+  "author": "rogers0404",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogers0404/brake-enemies/issues"
+  },
+  "homepage": "https://github.com/rogers0404/brake-enemies#readme"
+}
