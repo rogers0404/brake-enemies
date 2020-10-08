@@ -4,9 +4,12 @@
   "description": "Battle in OOP",
   "main": "app.js",
   "directories": {
+    "example": "examples",
     "lib": "lib"
   },
-  "dependencies": {},
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  },
   "devDependencies": {
     "jest": "^26.5.0"
   },
